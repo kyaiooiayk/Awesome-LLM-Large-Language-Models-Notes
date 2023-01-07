@@ -1,4 +1,56 @@
-# Awesome-ChatGPT-Notes
+# Awesome-LLM-Large-Language-Models-Notes
+***
+
+## Known LLM models
+- ALBERT |
+    BART |
+    BERT |
+    Big Bird  |
+    BLOOM |
+    Chinchilla |
+    CLIP |
+    CTRL |
+    DALL-E |
+    DALL-E-2 |
+    Decision Transformers |
+    DialoGPT |
+    DistilBERT |
+    DQ-BART |
+    ELECTRA |
+    ERNIE |
+    Flamingo |
+    Gato |
+    Gopher |
+    GLaM |
+    GLIDE |
+    GC-ViT |
+    GPT |
+    GPT-2 |
+    GPT-3 |
+    GPT-Neo |
+    GPTInstruct |
+    Imagen |
+    Jurassic-1 |
+    LAMDA |
+    mBART |
+    Megatron |
+    Minerva |
+    MT-NLG |
+    OPT |
+    Palm |
+    Pegasus |
+    RoBERTa |
+    SeeKer |
+    Swin Transformer |
+    Switch |
+    T5 |
+    Trajectory Transformers |
+    Transformer XL |
+    Turing-NLG |
+    ViT |
+    Wu Dao 2.0 |
+    XLM-RoBERTa |
+    XLNet |
 ***
 
 ## What so special about HuggingFace?
@@ -12,4 +64,5 @@
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [ChatGPT vs. GPT3: The Ultimate Comparison](https://dzone.com/articles/chatgpt-vs-gpt3-the-ultimate-comparison-features)
 - [Prompt Engineering 101: Introduction and resources](https://amatriain.net/blog/PromptEngineering)
+- [Transformer models: an introduction and catalog — 2022 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/#GATO)
 ***
