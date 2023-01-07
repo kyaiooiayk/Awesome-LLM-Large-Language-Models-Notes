@@ -2,11 +2,7 @@
 ***
 
 ## Known LLM models
-- ALBERT |
-    BART |
-    BERT |
-    Big Bird  |
-    BLOOM |
+- ALBERT | BART | BERT | Big Bird | BLOOM |
     Chinchilla |
     CLIP |
     CTRL |
@@ -65,4 +61,5 @@
 - [ChatGPT vs. GPT3: The Ultimate Comparison](https://dzone.com/articles/chatgpt-vs-gpt3-the-ultimate-comparison-features)
 - [Prompt Engineering 101: Introduction and resources](https://amatriain.net/blog/PromptEngineering)
 - [Transformer models: an introduction and catalog — 2022 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/#GATO)
+- [Can GPT-3 or BERT Ever Understand Language?⁠—The Limits of Deep Learning Language Models](https://neptune.ai/blog/gpt-3-bert-limits-of-deep-learning-language-models)
 ***
