@@ -3,10 +3,8 @@
 
 ## Known LLM models
 - ALBERT | BART | BERT | Big Bird | BLOOM |
-    Chinchilla |
-    CLIP |
-    CTRL |
-    DALL-E |
+- Chinchilla | CLIP | CTRL |
+- DALL-E |
     DALL-E-2 |
     Decision Transformers |
     DialoGPT |
