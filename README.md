@@ -4,13 +4,8 @@
 ## Known LLM models
 - ALBERT | BART | BERT | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
-- DALL-E |
-    DALL-E-2 |
-    Decision Transformers |
-    DialoGPT |
-    DistilBERT |
-    DQ-BART |
-    ELECTRA |
+- DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | DistilBERT | DQ-BART |
+- ELECTRA |
     ERNIE |
     Flamingo |
     Gato |
@@ -60,4 +55,5 @@
 - [Prompt Engineering 101: Introduction and resources](https://amatriain.net/blog/PromptEngineering)
 - [Transformer models: an introduction and catalog — 2022 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/#GATO)
 - [Can GPT-3 or BERT Ever Understand Language?⁠—The Limits of Deep Learning Language Models](https://neptune.ai/blog/gpt-3-bert-limits-of-deep-learning-language-models)
+- [10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture)
 ***
