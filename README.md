@@ -8,14 +8,11 @@
 - ELECTRA | ERNIE |
 - Flamingo |
 - Gato | Gopher |GLaM | GLIDE | GC-ViT | GPT | GPT-2 | GPT-3 | GPT-Neo | GPTInstruct |
-- Imagen |
-    Jurassic-1 |
-    LAMDA |
-    mBART |
-    Megatron |
-    Minerva |
-    MT-NLG |
-    OPT |
+- Imagen
+- Jurassic-1
+- LAMDA |
+- mBART | Megatron |Minerva | MT-NLG |
+- OPT |
     Palm |
     Pegasus |
     RoBERTa |
@@ -51,4 +48,5 @@
 - [Can GPT-3 or BERT Ever Understand Language?⁠—The Limits of Deep Learning Language Models](https://neptune.ai/blog/gpt-3-bert-limits-of-deep-learning-language-models)
 - [10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture)
 - [Comprehensive Guide to Transformers](https://neptune.ai/blog/comprehensive-guide-to-transformers)
+- [Unmasking BERT: The Key to Transformer Model Performance](https://neptune.ai/blog/unmasking-bert-transformer-model-performance)
 ***
