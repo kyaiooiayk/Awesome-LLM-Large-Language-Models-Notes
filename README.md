@@ -48,6 +48,6 @@
 - [Unmasking BERT: The Key to Transformer Model Performance](https://neptune.ai/blog/unmasking-bert-transformer-model-performance)
 ***
 
-## Implementation from scratch
+## Implementations from scratch
 - [How to Code BERT Using PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
 ***
