@@ -5,9 +5,8 @@
 - ALBERT | BART | BERT | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | DistilBERT | DQ-BART |
-- ELECTRA |
-    ERNIE |
-    Flamingo |
+- ELECTRA | ERNIE |
+- Flamingo |
     Gato |
     Gopher |
     GLaM |
@@ -45,6 +44,10 @@
 ## What so special about HuggingFace?
 - HuggingFace, a popular NLP library, but it also offers an easy way to deploy models via their Inference API. When you build a model using the HuggingFace library, you can then train it and upload it to their Model Hub. From there, they offer a scalable compute backend which serves models hosted in the hub. With just a few lines of code, and for the price of a few dollars per day, anyone can deploy secure, scalable NLP models built with the HuggingFace library. Read more about this [here](https://huggingface.co/pricing).
 ***
+
+## Must-Read Papers on LLM
+- https://github.com/thunlp/PLMpapers
+*** 
 
 ## Blogs
 - [Building a synth with ChatGPT](https://jlongster.com/building-a-synth-with-chatgpt)
