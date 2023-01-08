@@ -16,14 +16,10 @@
 - Palm | Pegasus
 - RoBERTa
  -SeeKer | Swin Transformer | Switch
-    T5 |
-    Trajectory Transformers |
-    Transformer XL |
-    Turing-NLG |
-    ViT |
-    Wu Dao 2.0 |
-    XLM-RoBERTa |
-    XLNet |
+- T5 | Trajectory Transformers | Transformer XL | Turing-NLG
+- ViT
+- Wu Dao 2.0 |
+- XLM-RoBERTa | XLNet
 ***
 
 ## What so special about HuggingFace?
@@ -46,6 +42,10 @@
 - [10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture)
 - [Comprehensive Guide to Transformers](https://neptune.ai/blog/comprehensive-guide-to-transformers)
 - [Unmasking BERT: The Key to Transformer Model Performance](https://neptune.ai/blog/unmasking-bert-transformer-model-performance)
+***
+
+## Available tutorials
+
 ***
 
 ## Implementations from scratch
