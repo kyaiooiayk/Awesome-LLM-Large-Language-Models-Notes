@@ -10,15 +10,12 @@
 - Gato | Gopher |GLaM | GLIDE | GC-ViT | GPT | GPT-2 | GPT-3 | GPT-Neo | GPTInstruct |
 - Imagen
 - Jurassic-1
-- LAMDA |
-- mBART | Megatron |Minerva | MT-NLG |
-- OPT |
-    Palm |
-    Pegasus |
-    RoBERTa |
-    SeeKer |
-    Swin Transformer |
-    Switch |
+- LAMDA
+- mBART | Megatron |Minerva | MT-NLG
+- OPT
+- Palm | Pegasus
+- RoBERTa
+ -SeeKer | Swin Transformer | Switch
     T5 |
     Trajectory Transformers |
     Transformer XL |
@@ -49,4 +46,8 @@
 - [10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture)
 - [Comprehensive Guide to Transformers](https://neptune.ai/blog/comprehensive-guide-to-transformers)
 - [Unmasking BERT: The Key to Transformer Model Performance](https://neptune.ai/blog/unmasking-bert-transformer-model-performance)
+***
+
+## Implementation from scratch
+- [How to Code BERT Using PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
 ***
