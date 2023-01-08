@@ -11,7 +11,7 @@
 - Imagen
 - Jurassic-1
 - LAMDA
-- mBART | Megatron |Minerva | MT-NLG
+- mBART | Megatron | Minerva | MT-NLG
 - OPT
 - Palm | Pegasus
 - RoBERTa
