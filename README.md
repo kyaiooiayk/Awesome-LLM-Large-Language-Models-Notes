@@ -42,6 +42,7 @@
 - [10 Things You Need to Know About BERT and the Transformer Architecture That Are Reshaping the AI Landscape](https://neptune.ai/blog/bert-and-the-transformer-architecture)
 - [Comprehensive Guide to Transformers](https://neptune.ai/blog/comprehensive-guide-to-transformers)
 - [Unmasking BERT: The Key to Transformer Model Performance](https://neptune.ai/blog/unmasking-bert-transformer-model-performance)
+- [Transformer NLP Models (Meena and LaMDA): Are They “Sentient” and What Does It Mean for Open-Domain Chatbots?](https://neptune.ai/blog/transformer-nlp-models-meena-lamda-chatbots)
 ***
 
 ## Available tutorials
