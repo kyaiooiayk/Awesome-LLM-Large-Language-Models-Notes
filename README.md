@@ -2,7 +2,8 @@
 ***
 
 ## Known LLM models
-- ALBERT | BART | BERT | Big Bird | BLOOM |
+- ALBERT
+- BART | BERT | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | DistilBERT | DQ-BART |
 - ELECTRA | ERNIE |
@@ -44,6 +45,10 @@
 - [Unmasking BERT: The Key to Transformer Model Performance](https://neptune.ai/blog/unmasking-bert-transformer-model-performance)
 - [Transformer NLP Models (Meena and LaMDA): Are They “Sentient” and What Does It Mean for Open-Domain Chatbots?](https://neptune.ai/blog/transformer-nlp-models-meena-lamda-chatbots)
 - [Hugging Face Pre-trained Models: Find the Best One for Your Task](https://neptune.ai/blog/hugging-face-pre-trained-models-find-the-best)
+***
+
+## Start-up funding landscape
+- [NLP Startup Funding in 2022](https://towardsdatascience.com/nlp-startup-funding-in-2022-caad77cb0f0)
 ***
 
 ## Available tutorials
