@@ -52,9 +52,10 @@
 ***
 
 ## Available tutorials
-
 ***
 
 ## Implementations from scratch
 - [How to Code BERT Using PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
+- [miniGPT in PyTorch](https://github.com/karpathy/minGPT)
+- [nanoGPT in PyTorch](https://github.com/karpathy/nanoGPT)
 ***
