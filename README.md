@@ -52,6 +52,10 @@
 ***
 
 ## Available tutorials
+- [Building a search engine with a pre-trained BERT model]()
+- [Fine tuning pre-trained BERT model on Text Classification Task]()
+- [Fine tuning pre-trained BERT model on the Amazon product review dataset]()
+- [Sentiment analysis with Hugging Face transformer]()
 ***
 
 ## Implementations from scratch
