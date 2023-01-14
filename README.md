@@ -58,6 +58,12 @@
 - [Sentiment analysis with Hugging Face transformer]()
 ***
 
+## How to in Google Colab
+- The easiest option would be for you to clone this repository.
+- Navigate to Google Colab and open the notebook directly from Colab.
+- You can then also write it back to GitHub provided permission to Colab. The whole procedure is automated.
+***
+
 ## Implementations from scratch
 - [How to Code BERT Using PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial)
 - [miniGPT in PyTorch](https://github.com/karpathy/minGPT)
