@@ -24,7 +24,8 @@
 ***
 
 ## What so special about HuggingFace?
-- HuggingFace, a popular NLP library, but it also offers an easy way to deploy models via their Inference API. When you build a model using the HuggingFace library, you can then train it and upload it to their Model Hub. From there, they offer a scalable compute backend which serves models hosted in the hub. With just a few lines of code, and for the price of a few dollars per day, anyone can deploy secure, scalable NLP models built with the HuggingFace library. Read more about this [here](https://huggingface.co/pricing).
+- HuggingFace, a popular NLP library, but it also offers an easy way to deploy models via their Inference API. When you build a model using the HuggingFace library, you can then train it and upload it to their Model Hub. Read more about this [here](https://huggingface.co/pricing).
+- [List of notebook](https://huggingface.co/docs/transformers/notebooks)
 ***
 
 ## Must-Read Papers on LLM
@@ -52,13 +53,15 @@
 ***
 
 ## Available tutorials
-- [Building a search engine with a pre-trained BERT model]()
-- [Fine tuning pre-trained BERT model on Text Classification Task]()
-- [Fine tuning pre-trained BERT model on the Amazon product review dataset]()
-- [Sentiment analysis with Hugging Face transformer]()
+- [Building a search engine with a pre-trained BERT model](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Building%20a%20search%20engine%20with%20a%20pre-trained%20BERT%20model.ipynb)
+- [Fine tuning pre-trained BERT model on Text Classification Task](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Fine%20tuning%20pre-trained%20BERT%20model%20on%20Text%20Classification%20Task.ipynb)
+- [Fine tuning pre-trained BERT model on the Amazon product review dataset](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Fine%20tuning%20pre-trained%20BERT%20model%20on%20the%20Amazon%20product%20review%20dataset.ipynb)
+- [Sentiment analysis with Hugging Face transformer](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Sentiment%20analysis%20with%20Hugging%20Face%20transformer.ipynb)
+- [Fine tuning pre-trained BERT model on YELP review Classification Task](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Fine%20tuning%20pre-trained%20BERT%20model%20on%20YELP%20review%20Classification%20Task.ipynb)
+- [HuggingFace API](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20API.ipynb)
 ***
 
-## How to in Google Colab
+## How to run the notebook in Google Colab
 - The easiest option would be for you to clone this repository.
 - Navigate to Google Colab and open the notebook directly from Colab.
 - You can then also write it back to GitHub provided permission to Colab. The whole procedure is automated.
