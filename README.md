@@ -45,16 +45,14 @@
 ***
 
 ## Classification by architecture
-- Broadly, they can be grouped into three categories:
-    - GPT-like - also called auto-regressive Transformer models. Use only the decoder of a Transformer model.  Examples are: CTRL, GPT, GPT-2, Transformer XL. Tasks: requiring an understanding of the full sentence, such as sentence classification, named entity recognition (and more generally word classification), and extractive question answering.
-    - BERT-like - also called auto-encoding Transformer models. Use only the encoder of a Transformer model. Examples are: ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa. Tasks: text generation given a prompt.
-    - BART/T5-like - also called sequence-to-sequence Transformer models. Use both parts of the Transformer architecture. Examples are: BART, mBART, Marian, T5. Tasks: generating new sentences depending on a given input, such as summarization, translation, or generative question answering.
+
+   
 
 | Architecture | Models | Tasks|
 | :-: | :-: | :-: |
-| Encoder | ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
-| Decoder | CTRL, GPT, GPT-2, Transformer XL | Text generation given a prompt|
-| Encoder-Decoder | BART, T5, Marian, mBART | Summarization, translation, generative question answering |
+| Encoder - aka also called auto-encoding Transformer models| ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
+| Decoder - aka auto-regressive Transformer models | CTRL, GPT, GPT-2, Transformer XL | Text generation given a prompt|
+| Encoder-Decoder - aka  sequence-to-sequence Transformer models| BART, T5, Marian, mBART | Summarization, translation, generative question answering |
 
 ***
 
