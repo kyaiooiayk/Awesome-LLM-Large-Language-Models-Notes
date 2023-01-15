@@ -8,6 +8,7 @@
 table {
   font-size: 13px;
 }
+</style>
     
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
