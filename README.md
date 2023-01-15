@@ -38,6 +38,13 @@
 - XLM-RoBERTa | XLNet
 ***
 
+## Classification by architecture
+- Broadly, they can be grouped into three categories:
+    - GPT-like (also called auto-regressive Transformer models)
+    - BERT-like (also called auto-encoding Transformer models)
+    - BART/T5-like (also called sequence-to-sequence Transformer models)
+***
+
 ## What so special about HuggingFace?
 - HuggingFace, a popular NLP library, but it also offers an easy way to deploy models via their Inference API. When you build a model using the HuggingFace library, you can then train it and upload it to their Model Hub. Read more about this [here](https://huggingface.co/pricing).
 - [List of notebook](https://huggingface.co/docs/transformers/notebooks)
