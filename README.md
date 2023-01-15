@@ -46,14 +46,11 @@
 
 ## Classification by architecture
 
-   
-
 | Architecture | Models | Tasks|
 | :-: | :-: | :-: |
 | Encoder - aka also called auto-encoding Transformer models| ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
 | Decoder - aka auto-regressive Transformer models | CTRL, GPT, GPT-2, Transformer XL | Text generation given a prompt|
 | Encoder-Decoder - aka  sequence-to-sequence Transformer models| BART, T5, Marian, mBART | Summarization, translation, generative question answering |
-
 ***
 
 ## What so special about HuggingFace?
