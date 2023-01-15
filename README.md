@@ -2,6 +2,12 @@
 ***
 
 ## Known LLM models
+**Small introduction, paper, code etc.**
+
+|Year|Name|Paper|Introduction|Implementation|
+|-|-|-|
+|2017|Transformer architecture|The focus of the original research was on translation tasks.||
+
 - ALBERT
 - BART | BERT | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
@@ -59,6 +65,18 @@
 - [Sentiment analysis with Hugging Face transformer](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Sentiment%20analysis%20with%20Hugging%20Face%20transformer.ipynb)
 - [Fine tuning pre-trained BERT model on YELP review Classification Task](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Fine%20tuning%20pre-trained%20BERT%20model%20on%20YELP%20review%20Classification%20Task.ipynb)
 - [HuggingFace API](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20API.ipynb)
+- [HuggingFace mask filling]()
+- [HuggingFace NER name entity recognition]()
+- [HuggingFace question answering within context]()
+- [HuggingFace text generation]()
+- [HuggingFace text summarisation.ipynb]()
+- [HuggingFace zero-shot learning]()
+***
+
+## A small note on the notebook rendering
+- Two notebooks are available: 
+    - One with coloured boxes and outside folder `GitHub_MD_rendering` 
+    - One in black-and-white under folder `GitHub_MD_rendering`
 ***
 
 ## How to run the notebook in Google Colab
