@@ -9,17 +9,17 @@
 | 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
 | 2018 | GPT - Generative Pre-Trained | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | |
 | 2018 | BERT - Bidirectional | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Another large pretrained model, this one designed to produce better summaries of sentences |  |
-
+| 2019 | GPT-2 | [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | An improved (and bigger) version of GPT that was not immediately publicly released due to ethical concerns |  |
 ***
 
 ## Known LLM models classified by name
 - ALBERT
-- BART | [BERT]((https://arxiv.org/abs/1810.04805)) | Big Bird | BLOOM |
+- BART | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | DistilBERT | DQ-BART |
 - ELECTRA | ERNIE |
 - Flamingo |
-- Gato | Gopher |GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | GPT-2 | GPT-3 | GPT-Neo | GPTInstruct |
+- Gato | Gopher |GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | GPT-3 | GPT-Neo | GPTInstruct |
 - Imagen
 - Jurassic-1
 - LAMDA
