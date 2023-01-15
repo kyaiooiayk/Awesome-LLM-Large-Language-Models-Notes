@@ -8,8 +8,7 @@
 table {
   font-size: 13px;
 }
-</style>
-    
+</style>    
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
 | 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
