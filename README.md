@@ -7,10 +7,10 @@
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
 
-|2017|Transformer architecture| [Attention is All you Need](https://arxiv.org/abs/1706.03762) |The focus of the original research was on translation tasks.| - |
+| 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | - |
 
-|2018|GPT|[Improving Language Understanding
-by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)| The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | - |
+| 2018 | GPT | [Improving Language Understanding
+by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | - |
 
 
 - ALBERT
