@@ -4,9 +4,10 @@
 ## Known LLM models
 **Small introduction, paper, code etc.**
 
-|Year|Name|Paper|Introduction|Implementation|
-|-|-|-|
-|2017|Transformer architecture|The focus of the original research was on translation tasks.||
+| Year | Name | Paper | Introduction | Implementation |
+| - | - | - |
+|2017|Transformer architecture|The focus of the original research was on translation tasks.|
+| - | - | - |
 
 - ALBERT
 - BART | BERT | Big Bird | BLOOM |
