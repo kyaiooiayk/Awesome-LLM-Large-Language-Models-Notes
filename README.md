@@ -7,6 +7,8 @@
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
 |2017|Transformer architecture| [Attention is All you Need](https://arxiv.org/abs/1706.03762) |The focus of the original research was on translation tasks.| |
+|2018|GPT|[Improving Language Understanding
+by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf)| the first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | |
 
 
 - ALBERT
@@ -15,7 +17,7 @@
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | DistilBERT | DQ-BART |
 - ELECTRA | ERNIE |
 - Flamingo |
-- Gato | Gopher |GLaM | GLIDE | GC-ViT | GPT | GPT-2 | GPT-3 | GPT-Neo | GPTInstruct |
+- Gato | Gopher |GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | GPT-2 | GPT-3 | GPT-Neo | GPTInstruct |
 - Imagen
 - Jurassic-1
 - LAMDA
