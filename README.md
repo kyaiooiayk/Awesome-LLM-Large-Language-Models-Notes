@@ -19,7 +19,7 @@
 | 2019 | Transformer XL | [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) | | |
 | 2020 | GPT-3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | An even bigger version of GPT-2 that is able to perform well on a variety of tasks without the need for fine-tuning (called zero-shot learning) | | |
 | 2020 | ELECTRA | [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB) | | |
-
+| 2020 | mBART | [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210) | | |
 ***
 
 ## Known LLM models classified by name
@@ -33,7 +33,7 @@
 - Imagen
 - Jurassic-1
 - LAMDA
-- mBART | Megatron | Minerva | MT-NLG
+- [mBART](https://arxiv.org/abs/2001.08210) | Megatron | Minerva | MT-NLG
 - OPT
 - Palm | Pegasus
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
@@ -46,9 +46,15 @@
 
 ## Classification by architecture
 - Broadly, they can be grouped into three categories:
-    - GPT-like - also called auto-regressive Transformer models. Examples are: CTRL, GPT, GPT-2, Transformer XL
-    - BERT-like - also called auto-encoding Transformer models. Examples are: ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa
-    - BART/T5-like - also called sequence-to-sequence Transformer models
+    - GPT-like - also called auto-regressive Transformer models. Use only the decoder of a Transformer model.  Examples are: CTRL, GPT, GPT-2, Transformer XL. Tasks: requiring an understanding of the full sentence, such as sentence classification, named entity recognition (and more generally word classification), and extractive question answering.
+    - BERT-like - also called auto-encoding Transformer models. Use only the encoder of a Transformer model. Examples are: ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa. Tasks: text generation given a prompt.
+    - BART/T5-like - also called sequence-to-sequence Transformer models. Use both parts of the Transformer architecture. Examples are: BART, mBART, Marian, T5. Tasks: generating new sentences depending on a given input, such as summarization, translation, or generative question answering.
+
+| Architecture | Models | Tasks|
+| Encoder | ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
+| Decoder | CTRL, GPT, GPT-2, Transformer XL | Text generation given a prompt|
+| Encoder-Decoder | BART, T5, Marian, mBART | Summarization, translation, generative question answering |
+
 ***
 
 ## What so special about HuggingFace?
