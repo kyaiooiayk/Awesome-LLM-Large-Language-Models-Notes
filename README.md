@@ -3,12 +3,7 @@
 
 ## Known LLM models classified by year
 *Small introduction, paper, code etc.*
-
-<style scoped>
-table {
-  font-size: 13px;
-}
-</style>    
+   
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
 | 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
@@ -16,12 +11,16 @@ table {
 | 2018 | BERT - Bidirectional | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Another large pretrained model, this one designed to produce better summaries of sentences | [PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial) |
 | 2019 | GPT-2 - Generative Pre-Trained version No. 2| [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | An improved (and bigger) version of GPT that was not immediately publicly released due to ethical concerns |  |
 | 2019 | DistilBERT - Distilled BERT| [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) | A distilled version of BERT that is 60% faster, 40% lighter in memory, and still retains 97% of BERT’s performance | |
+| 2019 | BART | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | Large pretrained models using the same architecture as the original Transformer model. | |
+| 2019 | T5 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | Large pretrained models using the same architecture as the original Transformer model. | |
+
+
 
 ***
 
 ## Known LLM models classified by name
 - ALBERT
-- BART | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
+- [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - ELECTRA | ERNIE |
@@ -35,7 +34,7 @@ table {
 - Palm | Pegasus
 - RoBERTa
  -SeeKer | Swin Transformer | Switch
-- [Transformer](https://arxiv.org/abs/1706.03762) |T5 | Trajectory Transformers | Transformer XL | Turing-NLG
+- [Transformer](https://arxiv.org/abs/1706.03762) | [T5](https://arxiv.org/abs/1910.10683) | Trajectory Transformers | Transformer XL | Turing-NLG
 - ViT
 - Wu Dao 2.0 |
 - XLM-RoBERTa | XLNet
