@@ -6,23 +6,26 @@
    
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
-| 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
-| 2018 | GPT - Generative Pre-Trained | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | | |
-| 2018 | BERT - Bidirectional | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Another large pretrained model, this one designed to produce better summaries of sentences | [PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial) | |
-| 2019 | GPT-2 - Generative Pre-Trained version No. 2| [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | An improved (and bigger) version of GPT that was not immediately publicly released due to ethical concerns | |
+| 2017 | Transformer | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
+| 2018 | GPT | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | | |
+| 2018 | BERT | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Another large pretrained model, this one designed to produce better summaries of sentences | [PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial) | |
+| 2019 | GPT-2 | [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | An improved (and bigger) version of GPT that was not immediately publicly released due to ethical concerns | |
 | 2019 | DistilBERT - Distilled BERT | [DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter](https://arxiv.org/abs/1910.01108) | A distilled version of BERT that is 60% faster, 40% lighter in memory, and still retains 97% of BERT’s performance | |
 | 2019 | BART | [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) | Large pretrained models using the same architecture as the original Transformer model. | |
 | 2019 | T5 | [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer](https://arxiv.org/abs/1910.10683) | Large pretrained models using the same architecture as the original Transformer model. | |
-| 2019 | ALBERT - A Lite BERT | [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) |  |  |
+| 2019 | ALBERT | [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) |  |  |
 | 2019 | RoBERTa - A Robustly Optimized BERT Pretraining Approach | [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692) | | |
-| 2020 | GPT-3  - Generative Pre-Trained version No. 3| [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | An even bigger version of GPT-2 that is able to perform well on a variety of tasks without the need for fine-tuning (called zero-shot learning) | | |
+| 2019 | CTRL | [CTRL: A Conditional Transformer Language Model for Controllable Generation](https://arxiv.org/abs/1909.05858) | | |
+| 2019 | Transformer XL | [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860) | | |
+| 2020 | GPT-3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | An even bigger version of GPT-2 that is able to perform well on a variety of tasks without the need for fine-tuning (called zero-shot learning) | | |
 | 2020 | ELECTRA | [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB) | | |
+
 ***
 
 ## Known LLM models classified by name
 - [ALBERT](https://arxiv.org/abs/1909.11942)
 - [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
-- Chinchilla | CLIP | CTRL |
+- Chinchilla | CLIP | [CTRL](https://arxiv.org/abs/1909.05858)
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
 - Flamingo |
@@ -34,8 +37,8 @@
 - OPT
 - Palm | Pegasus
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
- -SeeKer | Swin Transformer | Switch
-- [Transformer](https://arxiv.org/abs/1706.03762) | [T5](https://arxiv.org/abs/1910.10683) | Trajectory Transformers | Transformer XL | Turing-NLG
+- SeeKer | Swin Transformer | Switch
+- [Transformer](https://arxiv.org/abs/1706.03762) | [T5](https://arxiv.org/abs/1910.10683) | Trajectory Transformers | [Transformer XL](https://arxiv.org/abs/1901.02860) | Turing-NLG
 - ViT
 - Wu Dao 2.0 |
 - XLM-RoBERTa | XLNet
@@ -43,8 +46,8 @@
 
 ## Classification by architecture
 - Broadly, they can be grouped into three categories:
-    - GPT-like - also called auto-regressive Transformer models
-    - BERT-like - also called auto-encoding Transformer models
+    - GPT-like - also called auto-regressive Transformer models. Examples are: CTRL, GPT, GPT-2, Transformer XL
+    - BERT-like - also called auto-encoding Transformer models. Examples are: ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa
     - BART/T5-like - also called sequence-to-sequence Transformer models
 ***
 
