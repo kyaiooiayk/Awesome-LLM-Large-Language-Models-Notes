@@ -1,16 +1,16 @@
 # Awesome-LLM-Large-Language-Models-Notes
 ***
 
-## Known LLM models
+## Known LLM models classified by year
 *Small introduction, paper, code etc.*
 
 | Year | Name | Paper | Introduction | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
 | 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
 | 2018 | GPT - Generative Pre-Trained | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | |
+***
 
-
-
+## Known LLM models classified by name
 - ALBERT
 - BART | BERT | Big Bird | BLOOM |
 - Chinchilla | CLIP | CTRL |
@@ -26,7 +26,7 @@
 - Palm | Pegasus
 - RoBERTa
  -SeeKer | Swin Transformer | Switch
-- T5 | Trajectory Transformers | Transformer XL | Turing-NLG
+- [Transformer](https://arxiv.org/abs/1706.03762) |T5 | Trajectory Transformers | Transformer XL | Turing-NLG
 - ViT
 - Wu Dao 2.0 |
 - XLM-RoBERTa | XLNet
@@ -68,12 +68,12 @@
 - [Sentiment analysis with Hugging Face transformer](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Sentiment%20analysis%20with%20Hugging%20Face%20transformer.ipynb)
 - [Fine tuning pre-trained BERT model on YELP review Classification Task](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/Fine%20tuning%20pre-trained%20BERT%20model%20on%20YELP%20review%20Classification%20Task.ipynb)
 - [HuggingFace API](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20API.ipynb)
-- [HuggingFace mask filling]()
-- [HuggingFace NER name entity recognition]()
-- [HuggingFace question answering within context]()
-- [HuggingFace text generation]()
-- [HuggingFace text summarisation.ipynb]()
-- [HuggingFace zero-shot learning]()
+- [HuggingFace mask filling](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20mask%20filling.ipynb)
+- [HuggingFace NER name entity recognition](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20NER%20name%20entity%20recognition.ipynb)
+- [HuggingFace question answering within context](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20question%20answering%20within%20context.ipynb)
+- [HuggingFace text generation](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20text%20generation.ipynb)
+- [HuggingFace text summarisation.ipynb](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20text%20summarisation.ipynb)
+- [HuggingFace zero-shot learning](https://github.com/kyaiooiayk/Awesome-LLM-Large-Language-Models-Notes/blob/main/tutorials/GitHub_MD_rendering/HuggingFace%20zero-shot%20learning.ipynb)
 ***
 
 ## A small note on the notebook rendering
