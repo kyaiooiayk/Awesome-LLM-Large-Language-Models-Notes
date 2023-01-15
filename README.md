@@ -8,8 +8,8 @@
 | :-: | :-: | :-: | :-: | :-: |
 | 2017 | Transformer architecture | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | |
 | 2018 | GPT - Generative Pre-Trained | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | |
-| 2018 | BERT - Bidirectional | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Another large pretrained model, this one designed to produce better summaries of sentences |  |
-| 2019 | GPT-2 | [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | An improved (and bigger) version of GPT that was not immediately publicly released due to ethical concerns |  |
+| 2018 | BERT - Bidirectional | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) | Another large pretrained model, this one designed to produce better summaries of sentences | - [PyTorch](https://neptune.ai/blog/how-to-code-bert-using-pytorch-tutorial) |
+| 2019 | GPT-2 - Generative Pre-Trained version No. 2| [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | An improved (and bigger) version of GPT that was not immediately publicly released due to ethical concerns |  |
 ***
 
 ## Known LLM models classified by name
