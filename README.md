@@ -51,6 +51,7 @@
     - BART/T5-like - also called sequence-to-sequence Transformer models. Use both parts of the Transformer architecture. Examples are: BART, mBART, Marian, T5. Tasks: generating new sentences depending on a given input, such as summarization, translation, or generative question answering.
 
 | Architecture | Models | Tasks|
+| :-: | :-: | :-: |
 | Encoder | ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
 | Decoder | CTRL, GPT, GPT-2, Transformer XL | Text generation given a prompt|
 | Encoder-Decoder | BART, T5, Marian, mBART | Summarization, translation, generative question answering |
