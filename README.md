@@ -20,6 +20,7 @@
 | 2020 | GPT-3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | An even bigger version of GPT-2 that is able to perform well on a variety of tasks without the need for fine-tuning (called zero-shot learning) | | |
 | 2020 | ELECTRA | [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB) | | |
 | 2020 | mBART | [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210) | | |
+| 2022 | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | We’ve trained language models that are much better at following user intentions than GPT-3  | :-: |
 ***
 
 ## Known LLM models classified by name
@@ -30,7 +31,7 @@
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
 - Flamingo |
 - Gato | Gopher |GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | GPT-Neo | GPTInstruct |
-- Imagen
+- Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
 - LAMDA
 - [mBART](https://arxiv.org/abs/2001.08210) | Megatron | Minerva | MT-NLG
