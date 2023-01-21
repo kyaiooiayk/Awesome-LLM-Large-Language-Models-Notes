@@ -62,6 +62,7 @@
 
 ## Must-Read Papers on LLM
 - [2022 | A SURVEY ON GPT-3](https://arxiv.org/pdf/2212.00857.pdf)
+- [2022 | Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 - https://github.com/thunlp/PLMpapers
 *** 
 
