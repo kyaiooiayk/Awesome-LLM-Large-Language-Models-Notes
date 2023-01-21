@@ -81,6 +81,11 @@
 - [Transformer NLP Models (Meena and LaMDA): Are They “Sentient” and What Does It Mean for Open-Domain Chatbots?](https://neptune.ai/blog/transformer-nlp-models-meena-lamda-chatbots)
 - [Hugging Face Pre-trained Models: Find the Best One for Your Task](https://neptune.ai/blog/hugging-face-pre-trained-models-find-the-best)
 - [Large Transformer Model Inference Optimization](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
+- 4-series on how transformer workds: 
+[Part 1](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452) |
+[Part 2](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34) |
+[Part 3](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853) |
+[Part 4](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
 ***
 
 ## Start-up funding landscape
