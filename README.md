@@ -21,7 +21,7 @@
 | 2020 | ELECTRA | [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB) | | |
 | 2020 | mBART | [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210) | | |
 | 2022 | InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | We’ve trained language models that are much better at following user intentions than GPT-3  | :-: |
-| 2022 | chatGPT | :-: | The model is optimized using Reinforcement Learning with Human Feedback (RLHF) to achieve conversational dialogue. The model was trained using a variety of data which were written by people to achieve responses that sounded human-like. | :-: |
+| 2022 | chatGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | The model is optimized using Reinforcement Learning with Human Feedback (RLHF) to achieve conversational dialogue. The model was trained using a variety of data which were written by people to achieve responses that sounded human-like. | :-: |
 ***
 
 ## Known LLM models classified by name
