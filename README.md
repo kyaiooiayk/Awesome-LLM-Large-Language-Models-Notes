@@ -27,7 +27,7 @@
 ## Known LLM models classified by name
 - [ALBERT](https://arxiv.org/abs/1909.11942)
 - [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
-- Chinchilla | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | chatGPT
+- Chinchilla | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
 - Flamingo |
@@ -61,6 +61,7 @@
 ***
 
 ## Must-Read Papers on LLM
+- [2014 | Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [2022 | A SURVEY ON GPT-3](https://arxiv.org/pdf/2212.00857.pdf)
 - [2022 | Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
 - https://github.com/thunlp/PLMpapers
@@ -87,6 +88,7 @@
 [Part 3](https://towardsdatascience.com/transformers-explained-visually-part-3-multi-head-attention-deep-dive-1c1ff1024853) |
 [Part 4](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents?utm_source=substack&utm_medium=email)
+- [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html?utm_source=substack&utm_medium=email)
 ***
 
 ## Start-up funding landscape
