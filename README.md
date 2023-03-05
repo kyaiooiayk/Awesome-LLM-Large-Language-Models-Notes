@@ -51,7 +51,7 @@
 | :-: | :-: | :-: |
 | Encoder-only, aka also called auto-encoding Transformer models| ALBERT, BERT, DistilBERT, ELECTRA, RoBERTa | Sentence classification, named entity recognition, extractive question answering |
 | Decoder-only, aka auto-regressive (or causal) Transformer models | CTRL, GPT, GPT-2, Transformer XL | Text generation given a prompt|
-| Encoder-Decoder, aka  sequence-to-sequence Transformer models| BART, T5, Marian, mBART | Summarization, translation, generative question answering |
+| Encoder-Decoder, aka  sequence-to-sequence Transformer models| BART, T5, Marian, mBART | Summarisation, translation, generative question answering |
 ***
 
 ## What so special about HuggingFace?
