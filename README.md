@@ -4,7 +4,7 @@
 ## Known LLM models classified by year
 *Small introduction, paper, code etc.*
    
-| Year | Name | Paper | Introduction | Implementation |
+| Year | Name | Paper | Info | Implementation |
 | :-: | :-: | :-: | :-: | :-: |
 | 2017 | Transformer | [Attention is All you Need](https://arxiv.org/abs/1706.03762) | The focus of the original research was on translation tasks. | [TensorFlow](https://github.com/edumunozsala/Transformer-NMT) + [article](https://towardsdatascience.com/attention-is-all-you-need-discovering-the-transformer-paper-73e5ff5e0634) |
 | 2018 | GPT | [Improving Language Understanding by Generative Pre-Training](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | The first pretrained Transformer model, used for fine-tuning on various NLP tasks and obtained state-of-the-art results | | |
@@ -20,18 +20,28 @@
 | 2020 | GPT-3 | [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) | An even bigger version of GPT-2 that is able to perform well on a variety of tasks without the need for fine-tuning (called zero-shot learning) | | |
 | 2020 | ELECTRA | [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB) | | |
 | 2020 | mBART | [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210) | | |
+| 2021 | Gopher | [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446) | | |
 | 2022 | chatGPT/InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | This trained language model is much better at following user intentions than GPT-3. The model is optimised (fine tuned) using Reinforcement Learning with Human Feedback (RLHF) to achieve conversational dialogue. The model was trained using a variety of data which were written by people to achieve responses that sounded human-like.  | :-: |
+| 2022 | Chinchilla | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Uses the same compute budget as Gopher but with 70B parameters and 4x more more data.| :-:|
 | 2023 | GPT-4 | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) | The model now accepts multimodal inputs: images and text | :-: |
+***
+
+## Known LLM models classified by size
+|Name | Size (# Parameters) | Training Tokens | 
+| :-: | :-: | :-: |
+| [Gopher](https://arxiv.org/abs/2112.11446) | 280 Billions | 300 Billions |
+| [Chinchilla](https://arxiv.org/abs/2203.15556) | 70 Billions | 1.4 Trillion |
+
 ***
 
 ## Known LLM models classified by name
 - [ALBERT](https://arxiv.org/abs/1909.11942)
 - [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
-- Chinchilla | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
+- [Chinchilla](https://arxiv.org/abs/2203.15556) | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
 - Flamingo |
-- Gato | Gopher |GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
+- Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
 - LAMDA
