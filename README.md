@@ -23,15 +23,19 @@
 | 2021 | Gopher | [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446) | | |
 | 2022 | chatGPT/InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | This trained language model is much better at following user intentions than GPT-3. The model is optimised (fine tuned) using Reinforcement Learning with Human Feedback (RLHF) to achieve conversational dialogue. The model was trained using a variety of data which were written by people to achieve responses that sounded human-like.  | :-: |
 | 2022 | Chinchilla | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Uses the same compute budget as Gopher but with 70B parameters and 4x more more data.| :-:|
+| 2022 | LaMDA - Language Models for Dialog Applications | [LaMDA](https://arxiv.org/abs/2201.08239) | It is a family of Transformer-based neural language models specialized for dialog | |
 | 2023 | GPT-4 | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) | The model now accepts multimodal inputs: images and text | :-: |
 ***
 
 ## Known LLM models classified by size
-|Name | Size (# Parameters) | Training Tokens | 
-| :-: | :-: | :-: |
-| [Gopher](https://arxiv.org/abs/2112.11446) | 280 Billions | 300 Billions |
-| [Chinchilla](https://arxiv.org/abs/2203.15556) | 70 Billions | 1.4 Trillion |
+|Name | Size (# Parameters) | Training Tokens | Training data|
+| :-: | :-: | :-: | :-: |
+| [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
+| [Gopher](https://arxiv.org/abs/2112.11446) | 280B | 300B | |
+| [Chinchilla](https://arxiv.org/abs/2203.15556) | 70B | 1.4T | |
 
+
+- M=Million | B=billion | T=Trillion
 ***
 
 ## Known LLM models classified by name
@@ -44,7 +48,7 @@
 - Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
-- LAMDA
+- [LaMDA](https://arxiv.org/abs/2201.08239)
 - [mBART](https://arxiv.org/abs/2001.08210) | Megatron | Minerva | MT-NLG
 - OPT
 - Palm | Pegasus
