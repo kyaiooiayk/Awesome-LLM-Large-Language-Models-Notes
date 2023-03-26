@@ -103,6 +103,7 @@
 [Part 4](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents?utm_source=substack&utm_medium=email)
 - [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html?utm_source=substack&utm_medium=email)
+- [ChatGPT and Wolfram|Alpha](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
 ***
 
 ## Start-up funding landscape
