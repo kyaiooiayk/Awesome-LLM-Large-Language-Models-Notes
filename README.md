@@ -104,6 +104,7 @@
 [Part 4](https://towardsdatascience.com/transformers-explained-visually-not-just-how-but-why-they-work-so-well-d840bd61a9d3)
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents?utm_source=substack&utm_medium=email)
 - [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html?utm_source=substack&utm_medium=email)
+- [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/?utm_source=substack&utm_medium=email)
 ***
 
 ## Know their limitations!
