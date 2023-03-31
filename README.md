@@ -25,6 +25,7 @@
 | 2022 | Chinchilla | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Uses the same compute budget as Gopher but with 70B parameters and 4x more more data.| :-:|
 | 2022 | LaMDA - Language Models for Dialog Applications | [LaMDA](https://arxiv.org/abs/2201.08239) | It is a family of Transformer-based neural language models specialized for dialog | |
 | 2023 | GPT-4 | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) | The model now accepts multimodal inputs: images and text | :-: |
+| 2023 | BloombergGPT | [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564) | LLM  specialised in financial domain trained on Bloomberg's extensive data sources | |
 ***
 
 ## Known LLM models classified by size
@@ -33,7 +34,7 @@
 | [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
 | [Gopher](https://arxiv.org/abs/2112.11446) | 280B | 300B | |
 | [Chinchilla](https://arxiv.org/abs/2203.15556) | 70B | 1.4T | |
-
+[BloombergGPT](https://arxiv.org/abs/2303.17564) | 50B | 363B |
 
 - M=Million | B=billion | T=Trillion
 ***
