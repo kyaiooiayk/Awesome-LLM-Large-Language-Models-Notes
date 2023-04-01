@@ -31,8 +31,8 @@
 ## Known LLM models classified by size
 |Name | Size (# Parameters) | Training Tokens | Training data|
 | :-: | :-: | :-: | :-: |
-| [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
 | [Gopher](https://arxiv.org/abs/2112.11446) | 280B | 300B | |
+| [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
 | [Chinchilla](https://arxiv.org/abs/2203.15556) | 70B | 1.4T | |
 [BloombergGPT](https://arxiv.org/abs/2303.17564) | 50B | 363B |
 
