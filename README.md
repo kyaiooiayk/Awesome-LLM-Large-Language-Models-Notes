@@ -83,7 +83,7 @@
 - https://github.com/thunlp/PLMpapers
 *** 
 
-## Blogs
+## Blog articles
 - [Building a synth with ChatGPT](https://jlongster.com/building-a-synth-with-chatgpt)
 - [PubMed GPT: a Domain-Specific Large Language Model for Biomedical Text](https://www.mosaicml.com/blog/introducing-pubmed-gpt)
 - [ChatGPT - Where it lacks](https://cookup.ai/chatgpt/where-it-lacks/)
@@ -106,6 +106,7 @@
 - [What Makes a Dialog Agent Useful?](https://huggingface.co/blog/dialog-agents?utm_source=substack&utm_medium=email)
 - [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html?utm_source=substack&utm_medium=email)
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/?utm_source=substack&utm_medium=email)
+- [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html?utm_source=substack&utm_medium=email)
 ***
 
 ## Know their limitations!
