@@ -107,6 +107,7 @@
 - [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html?utm_source=substack&utm_medium=email)
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/?utm_source=substack&utm_medium=email)
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html?utm_source=substack&utm_medium=email)
+- [Argument for using RL LLMs](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81?utm_source=substack&utm_medium=email)
 ***
 
 ## Know their limitations!
