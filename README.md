@@ -110,6 +110,7 @@
 - [Argument for using RL LLMs](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81?utm_source=substack&utm_medium=email)
 - [Why Google and OpenAI are loosing against the open-source communities](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_source=substack&utm_medium=email)
 - [You probably don't know how to do Prompt Engineering!](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf?utm_source=substack&utm_medium=email)
+- [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/?utm_source=substack&utm_medium=email)
 ***
 
 ## Know their limitations!
