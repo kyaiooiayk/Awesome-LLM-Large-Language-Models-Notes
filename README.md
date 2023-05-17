@@ -107,10 +107,12 @@
 - [Understanding Large Language Models -- A Transformative Reading List](https://sebastianraschka.com/blog/2023/llm-reading-list.html?utm_source=substack&utm_medium=email)
 - [Prompt Engineering](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/?utm_source=substack&utm_medium=email)
 - [Building LLM applications for production](https://huyenchip.com/2023/04/11/llm-engineering.html?utm_source=substack&utm_medium=email)
+- [Developer's Guide To LLMOps: Prompt Engineering, LLM Agents, and Observability](https://arize.com/blog-course/llmops-operationalizing-llms-at-scale/)
 - [Argument for using RL LLMs](https://gist.github.com/yoavg/6bff0fecd65950898eba1bb321cfbd81?utm_source=substack&utm_medium=email)
 - [Why Google and OpenAI are loosing against the open-source communities](https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_source=substack&utm_medium=email)
 - [You probably don't know how to do Prompt Engineering!](https://gist.github.com/Hellisotherpeople/45c619ee22aac6865ca4bb328eb58faf?utm_source=substack&utm_medium=email)
 - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/?utm_source=substack&utm_medium=email)
+- [Understanding OpenAI's Evals](https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/)
 ***
 
 ## Know their limitations!
