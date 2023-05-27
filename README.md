@@ -71,7 +71,7 @@
 | Encoder-Decoder, aka  sequence-to-sequence Transformer models| BART, T5, Marian, mBART | Summarisation, translation, generative question answering |
 ***
 
-## What so special about HuggingFace?
+## What's so special about HuggingFace?
 - HuggingFace, a popular NLP library, but it also offers an easy way to deploy models via their Inference API. When you build a model using the HuggingFace library, you can then train it and upload it to their Model Hub. Read more about this [here](https://huggingface.co/pricing).
 - [List of notebook](https://huggingface.co/docs/transformers/notebooks)
 ***
@@ -117,6 +117,7 @@
 
 ## Know their limitations!
 - [ChatGPT and Wolfram|Alpha](https://writings.stephenwolfram.com/2023/01/wolframalpha-as-the-way-to-bring-computational-knowledge-superpowers-to-chatgpt/)
+- [Numbers every LLM Developer should know](https://github.com/ray-project/llm-numbers?utm_source=substack&utm_medium=email)
 ***
 
 ## Start-up funding landscape
