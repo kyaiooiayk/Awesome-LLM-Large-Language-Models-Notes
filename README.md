@@ -35,7 +35,8 @@
 | [GPT-3](https://arxiv.org/abs/2005.14165) | 175B | |
 | [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
 | [Chinchilla](https://arxiv.org/abs/2203.15556) | 70B | 1.4T | |
-[BloombergGPT](https://arxiv.org/abs/2303.17564) | 50B | 363B+345B |
+| [BloombergGPT](https://arxiv.org/abs/2303.17564) | 50B | 363B+345B |
+| [Falcon40B](https://falconllm.tii.ae/) | 40B | 1T | 1,000B tokens of RefinedWeb |
 
 - M=Million | B=billion | T=Trillion
 ***
@@ -46,7 +47,7 @@
 - [Chinchilla](https://arxiv.org/abs/2203.15556) | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
-- Flamingo |
+- Flamingo | [Falcon40B](https://falconllm.tii.ae/)
 - Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
