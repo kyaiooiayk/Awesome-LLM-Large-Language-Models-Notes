@@ -43,7 +43,7 @@
 
 ## Known LLM models classified by name
 - [ALBERT](https://arxiv.org/abs/1909.11942) | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
-- [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | Big Bird | BLOOM |
+- [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | [Big Bird](https://arxiv.org/abs/2007.14062) | BLOOM |
 - [Chinchilla](https://arxiv.org/abs/2203.15556) | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
