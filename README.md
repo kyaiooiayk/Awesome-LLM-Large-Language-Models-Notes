@@ -26,12 +26,14 @@
 | 2022 | LaMDA - Language Models for Dialog Applications | [LaMDA](https://arxiv.org/abs/2201.08239) | It is a family of Transformer-based neural language models specialized for dialog | |
 | 2023 | GPT-4 | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) | The model now accepts multimodal inputs: images and text | :-: |
 | 2023 | BloombergGPT | [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564) | LLM  specialised in financial domain trained on Bloomberg's extensive data sources | |
+| 2023 | BLOOM | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | BLOOM (BigScience Large Open-science Open-access Multilingual Language Model) is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total) | |
 ***
 
-## Known LLM models classified by size
+## LLM models classified by size
 |Name | Size (# Parameters) | Training Tokens | Training data|
 | :-: | :-: | :-: | :-: |
 | [Gopher](https://arxiv.org/abs/2112.11446) | 280B | 300B | |
+| [BLOOM](https://arxiv.org/abs/2211.05100) | 176B | | ROOTS coprus |
 | [GPT-3](https://arxiv.org/abs/2005.14165) | 175B | |
 | [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
 | [Chinchilla](https://arxiv.org/abs/2203.15556) | 70B | 1.4T | |
@@ -41,9 +43,9 @@
 - M=Million | B=billion | T=Trillion
 ***
 
-## Known LLM models classified by name
+## LLM models classified by name
 - [ALBERT](https://arxiv.org/abs/1909.11942) | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
-- [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | [Big Bird](https://arxiv.org/abs/2007.14062) | BLOOM |
+- [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | [Big Bird](https://arxiv.org/abs/2007.14062) | [BLOOM](https://arxiv.org/abs/2211.05100) |
 - [Chinchilla](https://arxiv.org/abs/2203.15556) | CLIP | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
 - DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
