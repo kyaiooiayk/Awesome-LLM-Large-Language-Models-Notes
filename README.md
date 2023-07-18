@@ -21,6 +21,7 @@
 | 2020 | ELECTRA | [ELECTRA: PRE-TRAINING TEXT ENCODERS AS DISCRIMINATORS RATHER THAN GENERATORS](https://openreview.net/pdf?id=r1xMH1BtvB) | | |
 | 2020 | mBART | [Multilingual Denoising Pre-training for Neural Machine Translation](https://arxiv.org/abs/2001.08210) | | |
 | 2021 | CLIP (Contrastive Language-Image Pre-Training) | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | CLIP is a neural network trained on a variety of (image, text) pairs. It can be instructed in natural language to predict the most relevant text snippet, given an image, without directly optimizing for the task, similarly to the zero-shot capabilities of GPT-2 and 3. | [PyTorch](https://github.com/openai/CLIP) |
+| 2021 | DALL-E | [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092v2.pdf) |  | [PyTorch](https://github.com/openai/DALL-E) |
 | 2021 | Gopher | [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446) | | |
 | 2022 | chatGPT/InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | This trained language model is much better at following user intentions than GPT-3. The model is optimised (fine tuned) using Reinforcement Learning with Human Feedback (RLHF) to achieve conversational dialogue. The model was trained using a variety of data which were written by people to achieve responses that sounded human-like.  | :-: |
 | 2022 | Chinchilla | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Uses the same compute budget as Gopher but with 70B parameters and 4x more more data.| :-:|
@@ -48,10 +49,10 @@
 - [ALBERT](https://arxiv.org/abs/1909.11942) | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 - [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | [Big Bird](https://arxiv.org/abs/2007.14062) | [BLOOM](https://arxiv.org/abs/2211.05100) |
 - [Chinchilla](https://arxiv.org/abs/2203.15556) | [CLIP](https://arxiv.org/abs/2103.00020) | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
-- DALL-E | DALL-E-2 | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
+- [DALL-E](https://arxiv.org/pdf/2102.12092v2.pdf) | [DALL-E-2](https://arxiv.org/pdf/2204.06125.pdf) | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
 - Flamingo | [Falcon40B](https://falconllm.tii.ae/)
-- Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | GLIDE | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
+- Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
 - [LaMDA](https://arxiv.org/abs/2201.08239)
