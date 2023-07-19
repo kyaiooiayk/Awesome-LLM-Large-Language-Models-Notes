@@ -29,6 +29,7 @@
 | 2023 | GPT-4 | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) | The model now accepts multimodal inputs: images and text | :-: |
 | 2023 | BloombergGPT | [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564) | LLM  specialised in financial domain trained on Bloomberg's extensive data sources | |
 | 2023 | BLOOM | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | BLOOM (BigScience Large Open-science Open-access Multilingual Language Model) is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total) | |
+| 2023 | Llama 2| [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1) | | |
 ***
 
 ## LLM models classified by size
@@ -39,6 +40,7 @@
 | [GPT-3](https://arxiv.org/abs/2005.14165) | 175B | |
 | [LaMDA](https://arxiv.org/abs/2201.08239) | 137B | 168B | 1.56T words of public dialog data and web text |
 | [Chinchilla](https://arxiv.org/abs/2203.15556) | 70B | 1.4T | |
+| [Llama 2](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1) | 7B, 13B and 70B | |
 | [BloombergGPT](https://arxiv.org/abs/2303.17564) | 50B | 363B+345B |
 | [Falcon40B](https://falconllm.tii.ae/) | 40B | 1T | 1,000B tokens of RefinedWeb |
 
@@ -55,7 +57,7 @@
 - Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct |
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
-- [LaMDA](https://arxiv.org/abs/2201.08239)
+- [LaMDA](https://arxiv.org/abs/2201.08239) | [Llama 2](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1)
 - [mBART](https://arxiv.org/abs/2001.08210) | Megatron | Minerva | MT-NLG
 - OPT
 - Palm | Pegasus
