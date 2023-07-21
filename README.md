@@ -30,6 +30,7 @@
 | 2023 | BloombergGPT | [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564) | LLM  specialised in financial domain trained on Bloomberg's extensive data sources | |
 | 2023 | BLOOM | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | BLOOM (BigScience Large Open-science Open-access Multilingual Language Model) is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total) | |
 | 2023 | Llama 2| [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1) | | |
+| 2023 | Claude | [Claude](https://www.anthropic.com/product) | Claude can analyze 75k words (100k tokens). GPT4 can do just 32.7k tokens. | |
 ***
 
 ## LLM models classified by size
@@ -50,7 +51,7 @@
 ## LLM models classified by name
 - [ALBERT](https://arxiv.org/abs/1909.11942) | [Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 - [BART](https://arxiv.org/abs/1910.13461) | [BERT](https://arxiv.org/abs/1810.04805) | [Big Bird](https://arxiv.org/abs/2007.14062) | [BLOOM](https://arxiv.org/abs/2211.05100) |
-- [Chinchilla](https://arxiv.org/abs/2203.15556) | [CLIP](https://arxiv.org/abs/2103.00020) | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155)
+- [Chinchilla](https://arxiv.org/abs/2203.15556) | [CLIP](https://arxiv.org/abs/2103.00020) | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155) | [Claude](https://www.anthropic.com/product) 
 - [DALL-E](https://arxiv.org/pdf/2102.12092v2.pdf) | [DALL-E-2](https://arxiv.org/pdf/2204.06125.pdf) | Decision Transformers | DialoGPT | [DistilBERT](https://arxiv.org/abs/1910.01108) | DQ-BART |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | ERNIE |
 - Flamingo | [Falcon40B](https://falconllm.tii.ae/)
