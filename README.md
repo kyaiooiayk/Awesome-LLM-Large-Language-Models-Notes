@@ -59,7 +59,7 @@
 - [DALL-E](https://arxiv.org/pdf/2102.12092v2.pdf) | [DALL-E-2](https://arxiv.org/pdf/2204.06125.pdf) | [Decision Transformers](https://arxiv.org/abs/2106.01345) | [DialoGPT](https://arxiv.org/abs/1911.00536) | [DistilBERT](https://arxiv.org/abs/1910.01108) | [DQ-BART](https://arxiv.org/abs/2203.11239) |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | [ERNIE](https://arxiv.org/abs/1905.07129)
 - Flamingo | [Falcon40B](https://falconllm.tii.ae/)
-- Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | GPTInstruct | Godel | GPT-x 
+- Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | Godel | GPT-x 
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
 - [LaMDA](https://arxiv.org/abs/2201.08239) | [Llama 2](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1)
