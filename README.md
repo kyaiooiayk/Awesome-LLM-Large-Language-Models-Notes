@@ -30,6 +30,7 @@
 | 2022 | Chinchilla | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Uses the same compute budget as Gopher but with 70B parameters and 4x more more data.| :-:|
 | 2022 | LaMDA - Language Models for Dialog Applications | [LaMDA](https://arxiv.org/abs/2201.08239) | It is a family of Transformer-based neural language models specialized for dialog | |
 | 2022 | DQ-BART | [DQ-BART: Efficient Sequence-to-Sequence Model via Joint Distillation and Quantization](https://arxiv.org/abs/2203.11239) | Propose to jointly distill and quantize the model, where knowledge is transferred from the full-precision teacher model to the quantized and distilled low-precision student model. | | |
+| 2022 | Flamingo | [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198) | Building models that can be rapidly adapted to novel tasks using only a handful of annotated examples is an open challenge for multimodal machine learning research. We introduce Flamingo, a family of Visual Language Models (VLM) with this ability. | |
 | 2023 | GPT-4 | [GPT-4 Technical Report](https://cdn.openai.com/papers/gpt-4.pdf) | The model now accepts multimodal inputs: images and text | :-: |
 | 2023 | BloombergGPT | [BloombergGPT: A Large Language Model for Finance](https://arxiv.org/abs/2303.17564) | LLM  specialised in financial domain trained on Bloomberg's extensive data sources | |
 | 2023 | BLOOM | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | BLOOM (BigScience Large Open-science Open-access Multilingual Language Model) is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total) | |
@@ -58,7 +59,7 @@
 - [Chinchilla](https://arxiv.org/abs/2203.15556) | [CLIP](https://arxiv.org/abs/2103.00020) | [CTRL](https://arxiv.org/abs/1909.05858) | [chatGPT](https://arxiv.org/abs/2203.02155) | [Claude](https://www.anthropic.com/product) 
 - [DALL-E](https://arxiv.org/pdf/2102.12092v2.pdf) | [DALL-E-2](https://arxiv.org/pdf/2204.06125.pdf) | [Decision Transformers](https://arxiv.org/abs/2106.01345) | [DialoGPT](https://arxiv.org/abs/1911.00536) | [DistilBERT](https://arxiv.org/abs/1910.01108) | [DQ-BART](https://arxiv.org/abs/2203.11239) |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | [ERNIE](https://arxiv.org/abs/1905.07129)
-- Flamingo | [Falcon40B](https://falconllm.tii.ae/)
+- [Flamingo](https://arxiv.org/abs/2204.14198) | [Falcon40B](https://falconllm.tii.ae/)
 - Gato | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | Godel | GPT-x 
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
