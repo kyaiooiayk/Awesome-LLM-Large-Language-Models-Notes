@@ -26,6 +26,7 @@
 | 2021 | DALL-E | [Zero-Shot Text-to-Image Generation](https://arxiv.org/pdf/2102.12092v2.pdf) |  | [PyTorch](https://github.com/openai/DALL-E) |
 | 2021 | Gopher | [Scaling Language Models: Methods, Analysis & Insights from Training Gopher](https://arxiv.org/abs/2112.11446) | | |
 | 2021 | Decision Transformer  | [Decision Transformer: Reinforcement Learning via Sequence Modeling](https://arxiv.org/abs/2106.01345) | An architecture that casts the problem of RL as conditional sequence modeling. | [PyTorch](https://github.com/kzl/decision-transformer) |
+| 2021 | GLam (Generalist Language Model) | [GLaM: Efficient Scaling of Language Models with Mixture-of-Experts](https://arxiv.org/abs/2112.06905) |  In this paper, we propose and develop a family of language models named GLaM (Generalist Language Model), which uses a sparsely activated mixture-of-experts architecture to scale the model capacity while also incurring substantially less training cost compared to dense variants. | |
 | 2022 | chatGPT/InstructGPT | [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) | This trained language model is much better at following user intentions than GPT-3. The model is optimised (fine tuned) using Reinforcement Learning with Human Feedback (RLHF) to achieve conversational dialogue. The model was trained using a variety of data which were written by people to achieve responses that sounded human-like.  | :-: |
 | 2022 | Chinchilla | [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) | Uses the same compute budget as Gopher but with 70B parameters and 4x more more data.| :-:|
 | 2022 | LaMDA - Language Models for Dialog Applications | [LaMDA](https://arxiv.org/abs/2201.08239) | It is a family of Transformer-based neural language models specialized for dialog | |
@@ -42,6 +43,7 @@
 ## LLM models classified by size
 |Name | Size (# Parameters) | Training Tokens | Training data|
 | :-: | :-: | :-: | :-: |
+| [GLaM](https://arxiv.org/abs/2112.06905) | 1.2T | | |
 | [Gopher](https://arxiv.org/abs/2112.11446) | 280B | 300B | |
 | [BLOOM](https://arxiv.org/abs/2211.05100) | 176B | | ROOTS coprus |
 | [GPT-3](https://arxiv.org/abs/2005.14165) | 175B | |
@@ -61,7 +63,7 @@
 - [DALL-E](https://arxiv.org/pdf/2102.12092v2.pdf) | [DALL-E-2](https://arxiv.org/pdf/2204.06125.pdf) | [Decision Transformers](https://arxiv.org/abs/2106.01345) | [DialoGPT](https://arxiv.org/abs/1911.00536) | [DistilBERT](https://arxiv.org/abs/1910.01108) | [DQ-BART](https://arxiv.org/abs/2203.11239) |
 - [ELECTRA](https://openreview.net/pdf?id=r1xMH1BtvB) | [ERNIE](https://arxiv.org/abs/1905.07129)
 - [Flamingo](https://arxiv.org/abs/2204.14198) | [Falcon40B](https://falconllm.tii.ae/)
-- [Gato](https://openreview.net/forum?id=1ikK0kHjvj) | [Gopher](https://arxiv.org/abs/2112.11446) | GLaM | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | Godel | GPT-x 
+- [Gato](https://openreview.net/forum?id=1ikK0kHjvj) | [Gopher](https://arxiv.org/abs/2112.11446) | [GLaM](https://arxiv.org/abs/2112.06905) | [GLIDE](https://arxiv.org/pdf/2112.10741.pdf) | GC-ViT | [GPT](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) | [GPT-2](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) | [GPT-3](https://arxiv.org/abs/2005.14165) | [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) | GPT-Neo | Godel | GPT-x 
 - Imagen | [InstructGPT](https://arxiv.org/abs/2203.02155) 
 - Jurassic-1
 - [LaMDA](https://arxiv.org/abs/2201.08239) | [Llama 2](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1)
