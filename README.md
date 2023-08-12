@@ -98,8 +98,12 @@
 - [2014 | Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473)
 - [2022 | A SURVEY ON GPT-3](https://arxiv.org/pdf/2212.00857.pdf)
 - [2022 | Efficiently Scaling Transformer Inference](https://arxiv.org/abs/2211.05102)
-- https://github.com/thunlp/PLMpapers
+- [Must-Read Papers on Pre-trained Language Models (PLMs)](https://github.com/thunlp/PLMpapers)
 *** 
+
+##  🚀Recap | Bring me up to speed!
+- [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/?utm_source=substack&utm_medium=email)
+***
 
 ## Blog articles
 - [Building a synth with ChatGPT](https://jlongster.com/building-a-synth-with-chatgpt)
