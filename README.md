@@ -39,6 +39,7 @@
 | 2023 | BLOOM | [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) | BLOOM (BigScience Large Open-science Open-access Multilingual Language Model) is a decoder-only Transformer language model that was trained on the ROOTS corpus, a dataset comprising hundreds of sources in 46 natural and 13 programming languages (59 in total) | |
 | 2023 | Llama 2| [Llama 2: Open Foundation and Fine-Tuned Chat Models](https://scontent.flhr3-4.fna.fbcdn.net/v/t39.2365-6/10000000_663429262362723_1696968207443577320_n.pdf?_nc_cat=101&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=5ol-jUSglG4AX90dFHP&_nc_ht=scontent.flhr3-4.fna&oh=00_AfC_5ntBQWcl206BQGQDHKRjHsyQfhyuWXuj2zsdxJvr_Q&oe=64BDB0D1) | | [PyTorch](https://github.com/facebookresearch/llama) |
 | 2023 | Claude | [Claude](https://www.anthropic.com/product) | Claude can analyze 75k words (100k tokens). GPT4 can do just 32.7k tokens. | |
+| 2023 | SelfCheckGPT | [SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models](https://arxiv.org/abs/2303.08896) | A simple sampling-based approach that can be used to fact-check black-box models in a zero-resource fashion, i.e. without an external database. | |
 ***
 
 ## LLM models classified by size
@@ -72,7 +73,7 @@
 - OPT
 - Palm | Pegasus
 - [RoBERTa](https://arxiv.org/abs/1907.11692)
-- SeeKer | Swin Transformer | Switch
+- SeeKer | Swin Transformer | Switch | [SelfCheckGPT](https://arxiv.org/abs/2303.08896)
 - [Transformer](https://arxiv.org/abs/1706.03762) | [T5](https://arxiv.org/abs/1910.10683) | Trajectory Transformers | [Transformer XL](https://arxiv.org/abs/1901.02860) | Turing-NLG
 - ViT
 - Wu Dao 2.0 |
