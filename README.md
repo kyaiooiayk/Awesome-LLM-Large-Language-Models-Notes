@@ -136,6 +136,7 @@
 - [The Full Story of Large Language Models and RLHF](https://www.assemblyai.com/blog/the-full-story-of-large-language-models-and-rlhf/?utm_source=substack&utm_medium=email)
 - [Understanding OpenAI's Evals](https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/)
 - [What We Know About LLMs  (Primer)](https://willthompson.name/what-we-know-about-llms-primer?utm_source=substack&utm_medium=email)
+- [F**k You, Show Me The Prompt.](https://hamel.dev/blog/posts/prompt/?utm_source=substack&utm_medium=email)
 ***
 
 ## Know their limitations!
