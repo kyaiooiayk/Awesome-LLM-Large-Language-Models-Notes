@@ -137,6 +137,8 @@
 - [Understanding OpenAI's Evals](https://arize.com/blog-course/evals-openai-simplifying-llm-evaluation/)
 - [What We Know About LLMs  (Primer)](https://willthompson.name/what-we-know-about-llms-primer?utm_source=substack&utm_medium=email)
 - [F**k You, Show Me The Prompt.](https://hamel.dev/blog/posts/prompt/?utm_source=substack&utm_medium=email)
+- [How to avoid LLM Security risks (Fiddler AI)](https://www.fiddler.ai/blog/how-to-avoid-llm-security-risks)
+- [Developing Agentic Workflows With Safety And Accuracy (Fiddler AI)](https://www.fiddler.ai/blog/developing-agentic-ai-workflows-with-safety-and-accuracy)
 ***
 
 ## Know their limitations!
